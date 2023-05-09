@@ -1,7 +1,7 @@
 <h1 align="center">well! Hello! Norma Espíndola</h1>
 <h3 align="center">but first... baby steps</h3>
 
-- 🔭 I’m currently studing on [<LAB>](https://github.com/ohnoeslunablack)
+- 🔭 I’m currently studing on [<"LAB">](https://github.com/ohnoeslunablack)
 
 - 🌱 I’m currently learning **HTML, CSS, Java, Javascript, Arduino**
 

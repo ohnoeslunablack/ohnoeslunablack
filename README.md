@@ -1,15 +1,15 @@
-<h1 align="center">well! Hello! I'm Norma Espíndola</h1>
+<h1 align="center">well... Hello! I'm Norma Espíndola</h1>
 <h3 align="center">but first... baby steps</h3>
 
-- 🔭 I’m currently studing on [<"LAB">](https://github.com/ohnoeslunablack)
+- 🔭 I’m currently studing on [<"LABORATORIA">](https://github.com/ohnoeslunablack)
 
-- 🌱 I’m currently learning **HTML, CSS, Java, Javascript, Arduino**
+- 🌱 I’m currently learning **HTML, CSS, Java, Javascript, Arduino,SQL**
 
 - 💬 Ask me about **no please! teach me!**
 
 - 📫 How to reach me **amidala_naboo@ hotmail.com**
 
-- ⚡ Fun fact **I'm always busy**
+- ⚡ Fun fact **I used to be "an" architect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

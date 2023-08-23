@@ -11,7 +11,7 @@
 - 🔭 I’m currently studing on <"LABORATORIA">
 - 🌱 Learning **HTML, CSS, Java, Javascript, Arduino ,SQL**
 - :computer: Frontend DEV
-- 📫 reach me here **amidala_naboo@hotmail.com** an sometimes here **https://ohnoeslunablack.itch.io**
+- 📫 reach me here **amidala_naboo@hotmail.com** and sometimes here **https://ohnoeslunablack.itch.io**
 - :satellite:I'm a fan of other tech areas like 	:lock: cibersecurity and  videogames dev :video_game:
 - :pencil: I would like to learn :bar_chart: salesforce and cloud 	:cloud:
 - :rainbow: Huge lover of forest 	:tent:

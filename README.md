@@ -1,13 +1,11 @@
 <h1 align="center">well... Hello! I'm Norma Espíndola</h1>
 <h3 align="center">but first... baby steps</h3>
 
-- 🔭 I’m currently studing on [<"LABORATORIA">](https://github.com/ohnoeslunablack)
+- 🔭 I’m currently studing on <"LABORATORIA">
 
-- 🌱 I’m currently learning **HTML, CSS, Java, Javascript, Arduino,SQL**
+- 🌱 I’m currently learning **HTML, CSS, Java, Javascript, Arduino ,SQL**
 
-- 💬 Ask me about **no please! teach me!**
-
-- 📫 How to reach me **amidala_naboo@ hotmail.com**
+- 📫 How to reach me **amidala_naboo@hotmail.com**
 
 - ⚡ Fun fact **I used to be "an" architect**
 

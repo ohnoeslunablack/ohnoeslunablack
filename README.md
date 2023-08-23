@@ -15,7 +15,7 @@
 - :satellite:I'm a fan of other tech areas like 	:lock: cibersecurity and  videogames dev :video_game:
 - :pencil: I would like to learn :bar_chart: salesforce and cloud 	:cloud:
 - :rainbow: Huge lover of forest 	:tent:
-- :bulb: Need to learn other languages :flag_lr: :flag_fr:
+- :bulb: Need to learn other languages 🇺🇸 🇫🇷
 - ⚡ Fun fact **I used to be "an" architect**
 
 ## Conect with me
